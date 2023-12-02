@@ -6,3 +6,4 @@ authors = ["Devendra Kumar Singh <devendra631995@gmail.com>"]
 
 [tool.poetry.group.base.dependencies]
 dbt-core = ">1.5.0"
+duckdb=">=0.8.1"
