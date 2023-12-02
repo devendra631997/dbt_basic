@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "dbt project"
+version = "0.0.1"
+description = "for practice"
+authors = ["Devendra Kumar Singh <devendra631995@gmail.com>"]
+
+[tool.poetry.group.base.dependencies]
+dbt-core = ">1.5.0"
